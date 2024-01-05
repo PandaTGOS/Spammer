@@ -7,5 +7,7 @@ def spam(input, n):
         press('enter')
 
 #main
-time.sleep(3)
-spam("You're an idiot", 100)
+line = input("Enter message : ")
+n = int(input("Enter no. of times : "))
+time.sleep(4)
+spam(line, n)
