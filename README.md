@@ -7,3 +7,5 @@ Run Program;
 You have 5 seconds to click on any textbox;
 (For example open a whatsapp chat and click on the text box);
 and wait 5 secs and boom it spams the message !
+
+Also... ctrl+c (mac : cmd+c) to interrupt and stop program :)
